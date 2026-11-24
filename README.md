@@ -1,6 +1,8 @@
 # presentmon-frametimes
 
-Lightweight, zero-dependency .NET 10 library and CLI for capturing and analyzing real PC gaming frametimes via Intel [PresentMon](https://github.com/GameTechDev/PresentMon), extracted from [Atom](https://aerosdev.com/atom).
+Lightweight, zero-dependency .NET 10 library and CLI for capturing and analyzing real PC gaming frametimes via Intel [PresentMon](https://github.com/GameTechDev/PresentMon).
+
+> Extracted from **[Atom](https://aerosdev.com/atom)** ([releases](https://github.com/DevModee/atom-releases) · [case study](https://www.matiasgs.com/trabajo/atom)), a reversible Windows gaming performance engine by **[Aeros](https://aerosdev.com)** that measures real 1% / 0.1% lows instead of applying blind tweaks.
 
 ## What it measures
 
