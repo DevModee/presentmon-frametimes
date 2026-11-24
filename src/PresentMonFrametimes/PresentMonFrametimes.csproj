@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <PackageId>PresentMonFrametimes</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Matías Sánchez González</Authors>
+    <Description>Lightweight .NET wrapper and CSV/live analyzer for Intel PresentMon frametimes (average FPS, 1% / 0.1% lows, P99/P99.9, and stutter detection).</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/DevModee/presentmon-frametimes</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
